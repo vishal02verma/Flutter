@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57006891258",
+    "project_id": "fir-f230b",
+    "storage_bucket": "fir-f230b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57006891258:android:9be79f90a59d98fb21e943",
+        "android_client_info": {
+          "package_name": "com.example.ayansh_bakery_my"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57006891258-j08csnevc69junps0298qe7694ln42pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJvr-5NizdPtp24SVZiaIGkO94X2AWcik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57006891258-j08csnevc69junps0298qe7694ln42pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
